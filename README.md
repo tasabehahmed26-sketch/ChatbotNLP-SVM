@@ -9,8 +9,8 @@ A question-answer chatbot NLP using 5 different models to classify user intents 
 - LSTM
   
 # Deployment
-Hosted links for best models (SVM, Bert) for results :- 
-BERT Model:
+Hosted links for best models (SVM, RAG) for results :- 
+RAG Model:
 https://huggingface.co/spaces/tasabehahmed/Chatbot-Bert
 SVM Model:
 https://huggingface.co/spaces/tasabehahmed/ChatbotNLP-SVM
